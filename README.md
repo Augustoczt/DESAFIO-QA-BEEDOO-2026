@@ -1,6 +1,5 @@
 # Qual você acredita ser o objetivo da aplicação?
 
-A aplicação tem dois objetivos, o primeiro, ele lista os cursos cadastrados na seção "LISTAR CURSOS" , já no segundo é realizar o cadastro desses cursos em uma outra seção da aplicação chamada "CADASTRAR CURSO"
 A aplicação tem como objetivo exibir uma lista de cursos na sua primeira página que é chamada de "LISTAR CURSOS" e também realizar o cadastro desses cursos que são exibidos nessa primeira pagina na seção "CADASTRAR CURSO", mediante as informações inseridas no seu cadastro
 
 # Quais são os principais fluxos disponíveis?
