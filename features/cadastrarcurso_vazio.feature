@@ -22,5 +22,5 @@ Esquema do Cenario: Cadastro de Curso com todas as informações vazias
     Então o usuario deve permanecer na pagina de cadastro de curso e deve receber uma mensagem como por exemplo "<mensagem>"
 
 Exemplos:
-    | nome do curso || descrição do curso || instrutor|| URL da imagem de capa|| Data de ínicio || Data de fim || Número de vagas || Tipo de curso ||Endereço ou link de inscrição||Mensagem                   |
-    |               ||                    ||          ||                      ||                ||             ||                 ||               ||                             ||Preencher todos os campos! |
+    | nome do curso | descrição do curso | instrutor | URL da imagem de capa | Data de ínicio | Data de fim | Número de vagas | Tipo de curso | Endereço ou link de inscrição |Mensagem                   |
+    |               |                    |           |                       |                |             |                 |               |                               |Preencher todos os campos! |

@@ -22,8 +22,8 @@ Esquema do Cenario: Cadastro de Curso
     Então o usuario é redirecionado para a página de listagem de cursos com o curso cadastrado e uma mensagem de sucesso "<mensagem>"
 
 Exemplos:
-    | nome do curso || descrição do curso    || instrutor  || URL da imagem de capa                                                                  || Data de ínicio || Data de fim || Número de vagas || Tipo de curso          ||Endereço ou link de inscrição                                                                                  ||  Mensagem                     |
-    | Básico de C#  || Aprenda o básico de C#|| Augusto    || https://drive.google.com/file/d/1B1-uzIV15H6vRSlq0O4HrN15buoC8EK4/view?usp=drive_link  || 01-04-2026     || 01-05-2026  || 5               || Presencial ou Online   || Rua Oratório n°2576 ou  https://drive.google.com/file/d/1B1-uzIV15H6vRSlq0O4HrN15buoC8EK4/view?usp=drive_link ||  Curso cadastrado com sucesso!|
+    | nome do curso | descrição do curso     | instrutor   | URL da imagem de capa                                                                 | Data de ínicio | Data de fim | Número de vagas | Tipo de curso        |Endereço ou link de inscrição                                                                                  |  Mensagem                     |
+    | Básico de C#  | Aprenda o básico de C# | Augusto     | https://drive.google.com/file/d/1B1-uzIV15H6vRSlq0O4HrN15buoC8EK4/view?usp=drive_link | 01-04-2026     | 01-05-2026  | 5               | Presencial ou Online | Rua Oratório n°2576 ou  https://drive.google.com/file/d/1B1-uzIV15H6vRSlq0O4HrN15buoC8EK4/view?usp=drive_link |  Curso cadastrado com sucesso!|
 
 
 
