@@ -12,3 +12,7 @@ Os princpais fluxos são o de cadastro e curso, onde vocÇe realiza o cadastro d
 A parte de cadastro de curso, pois é com base com o que é preenchido nele que é exibido na tela de listagem, se alguma informação for preenchida de forma errada, é o que sera exibido na tela, campos muito importante
 são o de data pois é com base nele que o usuário pode se programar para realizar o curso e também os campos adicionais de Endereço e link de inscrição pois é neles que o usuário vai poder realizar o cadastro ou chegar
 até o local do curso e também o campo de exclusão do curso, pois, se não está mais disponivel é importante que o curso nao seja mais exibido na tela.
+
+#Links pertinentes
+Planilha com os testes: https://docs.google.com/spreadsheets/d/1vcxRZCAHuyzzuo_jFox0PLVJR7DTw697VCt-BK9o3ik/edit?usp=sharing
+Evidências: https://drive.google.com/drive/folders/1q7DOnyJkj9LtXUu9CMhe7dPvnld3Jq1S?usp=sharing
