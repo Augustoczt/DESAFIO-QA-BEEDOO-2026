@@ -15,7 +15,7 @@ Cenario: Acesso a listagem de cursos
 Cenario: Verificação das informações da listagem de cursos
     Dado que o usuario está na pagina inicial do sistema 'lista de cursos'
     Quando o usuario ja tenha cadastrado um curso no sistema
-    Então o usuario deve visualizar as seguintes informações do curso cadastrado: nome do curso, descrição do curso, instrutor, data de início, data de fim, número de vagas e tipo de curso com o endereço se for presencial ou link de inscrição se for online
+    Então o usuario deve visualizar as seguintes informações do curso cadastrado: nome do curso, descrição do curso, instrutor, imagem de capa, data de início, data de fim, número de vagas e tipo de curso com o endereço se for presencial ou link de inscrição se for online
 
 Cenario: Excluir curso da listagem de cursos
     Dado que o usuario está na pagina inicial do sistema 'lista de cursos'
