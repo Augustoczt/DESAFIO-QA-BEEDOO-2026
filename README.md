@@ -4,7 +4,7 @@ A aplicação tem como objetivo exibir uma lista de cursos na sua primeira pági
 
 # Quais são os principais fluxos disponíveis?
 
-Os princpais fluxos são o de cadastro e curso, onde vocÇe realiza o cadastro das informações do curso e o fluxo de listagem de cursos que exibe os cursos cadastrados préviamente
+Os princpais fluxos são o de cadastro e curso, onde você realiza o cadastro das informações do curso e o fluxo de listagem de cursos que exibe os cursos cadastrados préviamente
 
 # Quais pontos do sistema você considera mais críticos para teste?
 
