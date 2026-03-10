@@ -8,8 +8,7 @@ Feature: Realizar acesso ao link enviado
 Contexto: O usuario deve ter recebido o link de acesso ao sistema
 
 Cenario: Acesso com sucesso
-
-Dado que o usuário tenha recebido o link de acesso ao sistema
-Quando o usuario clicar no link enviado
-Entao o usuario deve ser redirecionado para a página ininicial do sistema 'lista de cursos'
+    Dado que o usuário tenha recebido o link de acesso ao sistema
+    Quando o usuario clicar no link enviado
+    Então o usuario deve ser redirecionado para a página inicial do sistema 'lista de cursos'
 
