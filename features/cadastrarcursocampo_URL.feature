@@ -7,7 +7,7 @@ Feature: Cadastro Curso
 
 Contexto: O usuario deve ter recebido o link de acesso ao sistema
 
-Esquema do Cenario: Cadastro de Curso com informações distintas na descrição do curso
+Esquema do Cenario: Cadastro de Curso com informações distintas na URL da imagem de capa
     Dado que o usuario está na pagina de cadastro de curso
     E informa um nome de curso "<nome do curso>"
     E informa uma descrição do curso "<descrição do curso>"
