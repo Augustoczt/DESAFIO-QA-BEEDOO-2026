@@ -10,5 +10,5 @@ Contexto: O usuario deve ter recebido o link de acesso ao sistema
 Cenario: Acesso com sucesso
     Dado que o usuário tenha recebido o link de acesso ao sistema
     Quando o usuario clicar no link enviado
-    Então o usuario deve ser redirecionado para a página inicial do sistema 'lista de cursos'
+    Então o usuario deve ser redirecionado para a página inicial do sistema "lista de cursos"
 
